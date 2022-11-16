@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title></title>
+
+</head>
+
+<body>
+
+
+<header>
+<img src="images/logo.jpg" alt="Description of image" width="100px" height="100px">
+</header>
+<nav></nav>
+<main></main>
+<footer></footer>
+
+
+
+</body>
+
+</html>
